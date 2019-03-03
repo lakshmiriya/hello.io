@@ -1,0 +1,16 @@
+li
+{
+  list-style:none;
+  float:left;
+  margin-right:10px;
+}
+li a
+{
+  background:red;
+  color:#fff;
+  padding:10px;
+  text-decoration:none;
+}
+li a:hover{
+  background: #666
+}
